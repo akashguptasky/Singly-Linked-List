@@ -105,9 +105,7 @@ console.log("Size:", list.size()); // Output: 2
 ```rust
 Head -> Node1 -> Node2 -> Node3 -> ... -> null
 ```
----
 
----
 ## 🎨 Function Visualizations
 -1️⃣ addFirst(data)
 ```rust
